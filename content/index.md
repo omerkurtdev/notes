@@ -22,4 +22,4 @@ For you to navigate comfortably in this garden:
 
 -   Github: omerkurtdev
 
--   Email: omer@omerkurt.dev
+-   Email: omer[at]omerkurt.dev
